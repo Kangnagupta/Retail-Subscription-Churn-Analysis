@@ -35,7 +35,5 @@ This project demonstrates a complete Data Analytics workflow, broken down into t
 * **Actionable Recommendation:** Operations and logistics teams must prioritize fulfillment speeds to ensure premium deliveries never exceed a 3-day window. Crossing this operational threshold practically guarantees a lost customer and significantly impacts recurring revenue.
 
 ## 🚀 Interactive Dashboard
-👉 [Click Here to View the Live Tableau Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE)
+👉 Click Here to View the Live Tableau Dashboard --> https://public.tableau.com/authoring/Retail_Churn_Analysis/Dashboard1#1
 
-*(Optional: Add a screenshot of your dashboard below by replacing this text with the image upload)*
-![Dashboard Screenshot](Screenshot_Filename.png)
