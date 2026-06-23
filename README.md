@@ -1,4 +1,3 @@
-# Retail-Subscription-Churn-Analysis
 # Retail Subscription Churn Analysis: The Impact of Shipping Delays
 
 ## Project Overview
